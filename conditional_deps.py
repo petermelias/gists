@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+# Test by running: pip install -e .[subs]
 
 import sys
 from setuptools import setup
